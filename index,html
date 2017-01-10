@@ -5,13 +5,14 @@
     <title>My Personal Website</title>
   </head>
   <body>
-<h1>Welcome to my home</h1>
+<h1>Welcome to my Page</h1>
     <img src="photo.jpg"/>
     <h2>About</h2>
     <p>My name is Tan Jun Hao</p>
-    <p>I am a 14 year old student in <a href="dunmanhigh.moe.edu.sg">Dunman High School</a>, Singapore</p>
+    <p>I am a 14 year old student in <a href="dunmanhigh.moe.edu.sg">Dunman High School</a> , Singapore</p>
     <h2>Interests</h2>
-    <p>My hobbies are basketball, longboarding and photography .</p> <!--ADD YOUR OWN LINK FOR THIS SECTION-->
+    <p>My hobbies are basketball, longboarding and photography.My favourite basketball player is </p> <a href="http://www.draftexpress.com/profile/Lonzo-Ball-7229/">Lonzo Ball</a> 
+    <!--ADD YOUR OWN LINK FOR THIS SECTION-->
     <h2>Projects</h2>
     <p> I am a Google Code-in 2016 participant with <a href="http://fossasia.org">FOSSASIA</a></p>
     
